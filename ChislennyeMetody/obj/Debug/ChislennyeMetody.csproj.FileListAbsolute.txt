@@ -1,0 +1,13 @@
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\bin\Debug\ChislennyeMetody.exe.config
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\bin\Debug\ChislennyeMetody.exe
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\bin\Debug\ChislennyeMetody.pdb
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.csproj.AssemblyReference.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.Properties.Resources.resources
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.csproj.GenerateResource.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.csproj.CoreCompileInputs.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.exe
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.pdb
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.Form1.resources
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.HelpWindow.resources
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Численные методы\Практика\ChislennyeMetody\ChislennyeMetody\obj\Debug\ChislennyeMetody.IntGrafic.resources
